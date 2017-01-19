@@ -1,4 +1,4 @@
-From clarkchen633/ubuntu-14.04x64:latest
+From clarkchen633/ubuntux64:14.04.5
 MAINTAINER clarkchen633 "clarkchen633"
 
 # Install.
